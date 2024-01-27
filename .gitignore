@@ -1,0 +1,34 @@
+.vscode
+notes.txt
+/build
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+SpaceInvadersP
+
+# CMake files and directories
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CMakeScripts/
+Makefile
+
+# Cmake Extension
+.cmake
+compile_commands.json
